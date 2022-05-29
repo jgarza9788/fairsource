@@ -1,12 +1,12 @@
 Fair Source License, version 0.9
 
-Copyright (C) [year] [copyright owner]
+Copyright (C) 2022 Justin Garza
 
-Licensor: [legal name of licensor]
+Licensor: Justin Garza
 
 Software: [name software and version if applicable]
 
-Use Limitation: [number] users
+Use Limitation: 5 users
 
 License Grant. Licensor hereby grants to each recipient of the
 Software ("you") a non-exclusive, non-transferable, royalty-free and
